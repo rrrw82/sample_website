@@ -4,3 +4,35 @@
 .nav-spacing{
     margin: 0 0 0 10px;
 }
+.image-link{
+    text-decoration: none;
+}
+.main-header{
+    text-align: center;
+    margin: 0 0 80px;
+}
+.book-container{
+    width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #fafafa;
+}
+.moby-pic{
+    height: 200px;
+    float: left;
+    margin: 0 auto;
+    display: block;
+}
+.blockquote{
+    font-style: italic;
+    font-size: 20px;
+}
+.span{
+    font-style: normal;
+    font-size: 24px;
+    font-weight: bold;
+    color: #f00;
+}
+.table-block{
+    padding: 10px;
+}
